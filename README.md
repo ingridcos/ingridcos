@@ -31,7 +31,7 @@
 
 ## 📌 Bootcamp de BI - WoMakersCode
 
-Bootcamp de Business Intelligence da WoMakersCode concluído com sucesso, após 8 meses de muito aprendizado e prática intensiva em análise de dados.
+Fui contemplada com uma bolsa de estudos para o Bootcamp de Business Intelligence da WoMakersCode concluído com sucesso, após 8 meses de muito aprendizado e prática intensiva em análise de dados.
 
 Durante a formação, as alunas foram divididas em equipes e eu fiquei na squad **Nina da Hora**, onde realizamos todos os projetos em grupo.
 
