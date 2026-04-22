@@ -13,17 +13,15 @@
 - Curso **Python para Análise de Dados** (PrograMaria) 
 - Desenvolvimento de projetos práticos voltados à análise e visualização de dados
 
+---
+
 ## 🛠️ Ferramentas & Tecnologias
 
 Este repositório reúne minhas principais ferramentas e conhecimentos em análise de dados, BI e ciência de dados.
 
----
-
 ### 🧠 Linguagens de Programação
 - Python  
 - SQL  
-
----
 
 ### 📊 Bibliotecas Python
 - pandas (manipulação, transformação e análise de dados)  
@@ -32,43 +30,33 @@ Este repositório reúne minhas principais ferramentas e conhecimentos em análi
 - seaborn (visualização estatística)  
 - plotly (visualizações interativas)  
 
----
-
 ### 🔄 Engenharia de Dados & Processamento
 - ETL (Extract, Transform, Load)  
 - ELT (Extract, Load, Transform)  
 - Data Wrangling (limpeza, estruturação e transformação de dados)  
 - Pipelines de dados  
 
----
-
 ### 📈 Ferramentas de Business Intelligence
 - Power BI  
 - Tableau  
 - Looker Studio  
 
----
-
 ### 🗃️ Ferramentas de Produtividade
 - Microsoft Excel  
 - Google Sheets  
-
----
 
 ### 📚 Estatística & Machine Learning
 - Estatística descritiva básica  
 - Introdução a Machine Learning  
 
----
-
 ### 🧰 Versionamento e Colaboração
 - Git  
 - GitHub  
 
----
-
 ### 🎨 Ferramentas de Apoio
 - Canva (design e storytelling visual)
+
+---
 
 ## 📊 Projetos em Destaque
 
