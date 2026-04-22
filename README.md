@@ -75,7 +75,7 @@ https://github.com/ingridcos/WoMakersCode
 
 ---
 
-## 📌 PrograMaria
+## 📌 Programaria
 
 Fui contemplada com uma bolsa de estudos para o curso **“Meus Primeiros Passos em Python para Análise de Dados”**, com duração de dois meses.
 
