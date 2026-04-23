@@ -85,7 +85,7 @@ O projeto de Storytelling foi desenvolvido com a squad Nina da Hora, mas está d
 
 - Projeto de Storytelling – Entregas e Satisfação pelo Brasil  
 
-🔗 Pasta do Projeto: https://github.com/ingridcos/WoMakersCode/tree/main/DESAFIOS/Projeto_Storytelling  
+🔗 Projeto: https://github.com/ingridcos/WoMakersCode/tree/main/DESAFIOS/Projeto_Storytelling  
 
 ### 📁 Atividades individuais
 
