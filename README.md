@@ -77,8 +77,7 @@ Todos os projetos desenvolvidos em equipe estão reunidos no repositório oficia
 - Projeto de Storytelling - Entregas e Satisfação pelo Brasil 
 - Projeto Final – Análise Estratégica de Marcas Automotivas  
 
-🔗 Repositório da squad:  
-https://github.com/Nina-Da-Hora  
+🔗 Repositório da squad: https://github.com/Nina-Da-Hora  
 
 ### 📊 Projeto com a squad Nina da Hora (Storytelling) 
 
@@ -86,8 +85,7 @@ O projeto de Storytelling foi desenvolvido com a squad Nina da Hora, mas está d
 
 - Projeto de Storytelling – Entregas e Satisfação pelo Brasil  
 
-🔗 Projeto:  
-https://github.com/ingridcos/WoMakersCode/tree/main/DESAFIOS/Projeto_Storytelling  
+🔗 Pasta do Projeto: https://github.com/ingridcos/WoMakersCode/tree/main/DESAFIOS/Projeto_Storytelling  
 
 ### 📁 Atividades individuais
 
@@ -101,8 +99,7 @@ No meu repositório pessoal estão concentradas práticas em:
 - Pipelines de dados  
 - Visualização de dados  
 
-🔗 Repositório individual:  
-https://github.com/ingridcos/WoMakersCode  
+🔗 Repositório individual: https://github.com/ingridcos/WoMakersCode  
 
 ---
 
@@ -127,8 +124,7 @@ Projeto desenvolvido com base de dados da comunidade DataHackers.
 - Média salarial por gênero
 - Etnia x Nível de Escolaridade
 
-🔗 Repositório:
-https://github.com/ingridcos/Programaria
+🔗 Repositório: https://github.com/ingridcos/Programaria
 
 ---
 
@@ -147,8 +143,7 @@ O dashboard apresenta:
 - Árvore hierárquica de funcionários ativos por cargos  
 - Tooltip interativo nos gráficos de funcionários por cidade, exibindo horas extras por ocupação  
 
-Repositório do projeto
-https://github.com/ingridcos/Dashboards-de-RH-no-BI
+Repositório: https://github.com/ingridcos/Dashboards-de-RH-no-BI
 
 ---
 
