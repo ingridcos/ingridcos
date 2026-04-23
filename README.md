@@ -143,7 +143,7 @@ O dashboard apresenta:
 - Árvore hierárquica de funcionários ativos por cargos  
 - Tooltip interativo nos gráficos de funcionários por cidade, exibindo horas extras por ocupação  
 
-Repositório: https://github.com/ingridcos/Dashboards-de-RH-no-BI
+🔗 Repositório: https://github.com/ingridcos/Dashboards-de-RH-no-BI
 
 ---
 
