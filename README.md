@@ -156,10 +156,3 @@ https://github.com/ingridcos/Dashboards-de-RH-no-BI
 
 * GitHub: https://github.com/ingridcos
 * LinkedIn: https://www.linkedin.com/in/ingridcos
-
----
-
-⭐ Obrigada por visitar meu perfil!
-
-
-
