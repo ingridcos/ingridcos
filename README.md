@@ -4,8 +4,6 @@
 
 ## 👩‍💻 Sobre Mim
 
-🎯 Atualmente focada em entrar na área de People Analytics, buscando minha primeira oportunidade profissional.
-
 - Administradora formada pela UniCarioca  
 - Técnica em **Secretariado** pelo CETAP EAD RJ
 - Formada no curso de Comissário de Bordo pela Fly Escola de Aviação do RJ
