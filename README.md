@@ -6,7 +6,7 @@
 
 🎯 Atualmente focada em entrar na área de People Analytics, buscando minha primeira oportunidade profissional.
 
-- Administradora e Gestora de RH formada pela UniCarioca  
+- Administradora formada pela UniCarioca  
 - Técnica em **Secretariado** pelo CETAP EAD RJ
 - Formada no curso de Comissário de Bordo pela Fly Escola de Aviação do RJ
 - Bootcamp de **Business Intelligence** (WoMakersCode)  
