@@ -55,6 +55,15 @@ Este repositório reúne minhas principais ferramentas e conhecimentos em análi
 ### 🎨 Ferramentas de Apoio
 - Canva (design e storytelling visual)
 
+### 🤖 Uso de IA
+- Claude
+- ChatGPT
+- Copilot
+- Perplexity
+- Antigravity
+- Lovable
+- NotebookLM
+
 ---
 
 ## 📊 Projetos em Destaque
