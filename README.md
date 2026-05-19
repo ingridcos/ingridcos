@@ -132,7 +132,7 @@ Formação gratuita com foco no impacto da IA Generativa no ambiente de trabalho
 📊 Projetos desenvolvidos:
 
 - Dashboard Gmail + Google Calendar — painel diário integrado às APIs do Google para organizar e-mails não lidos e reuniões do dia, com foco em produtividade. Um projeto guiado feito no Antigravity.
-- Quiz Rio de Janeiro — jogo interativo com 15 perguntas em 3 fases sobre os pontos turísticos cariocas, com curiosidades e sistema de pontuação feitos no Replit e no Claude.
+- Quiz Rio de Janeiro — jogo interativo com 15 perguntas em 3 fases sobre os pontos turísticos cariocas, com curiosidades e sistema de pontuação. Jogo feito no Replit e no Claude.
 
 🔗 Repositório: https://github.com/ingridcos/Sprint_IA_Programaria
 
