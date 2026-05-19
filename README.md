@@ -112,7 +112,7 @@ Ao final, desenvolvi um miniprojeto aplicado sobre diversidade na tecnologia, co
 
 Projeto desenvolvido com base de dados da comunidade DataHackers.
 
-#### 🔎 Análises realizadas:
+🔎 Análises realizadas:
 
 - Gênero x Etnia
 - Distribuição de pessoas por região do Brasil
@@ -125,7 +125,7 @@ Projeto desenvolvido com base de dados da comunidade DataHackers.
 
 🔗 Repositório: https://github.com/ingridcos/Programaria
 
-## Sprint IA Generativa no Trabalho
+### 🤖 Sprint IA Generativa no Trabalho
 
 🔗 Repositório: https://github.com/ingridcos/Sprint_IA_Programaria
 
@@ -137,7 +137,7 @@ Projeto de construção de um **Dashboard de RH**, simulando o dia a dia de um p
 
 Desenvolvido em conjunto com a equipe da Hashtag Treinamentos, com foco em análise de dados aplicada à área de Recursos Humanos.
 
-### 📊 Funcionalidades do Dashboard
+📊 Funcionalidades do Dashboard
 
 O dashboard apresenta:
 
