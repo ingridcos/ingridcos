@@ -128,7 +128,8 @@ Projeto desenvolvido com base de dados da comunidade DataHackers.
 ### 🤖 Sprint IA Generativa no Trabalho
 
 Formação gratuita com foco no impacto da IA Generativa no ambiente de trabalho, cobrindo fundamentos, automação de tarefas, uso de APIs e agentes, e governança responsável.
-Projetos desenvolvidos:
+
+📊 Projetos desenvolvidos:
 
 - Dashboard Gmail + Google Calendar — painel diário integrado às APIs do Google para organizar e-mails não lidos e reuniões do dia, com foco em produtividade. Um projeto guiado feito no Antigravity.
 - Quiz Rio de Janeiro — jogo interativo com 15 perguntas em 3 fases sobre os pontos turísticos cariocas, com curiosidades e sistema de pontuação feitos no Replit e no Claude.
