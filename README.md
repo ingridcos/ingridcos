@@ -66,7 +66,7 @@ Este repositório reúne minhas principais ferramentas e conhecimentos em análi
 
 ---
 
-## 📊 Projetos em Destaque
+# 📊 Projetos em Destaque
 
 ## 📌 Bootcamp de BI - WoMakersCode
 
